@@ -1,2 +1,4 @@
-package fr.ondaria.box.manager;public class MInventory {
+package fr.ondaria.box.manager;
+
+public class MInventory {
 }

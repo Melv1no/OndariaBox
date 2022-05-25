@@ -1,0 +1,11 @@
+name: OndariaBox
+author: Melv1n
+version: 1.0.0.0
+main: fr.ondaria.box.OndariaBox
+
+commands:
+  ondariacrate:
+    aliases: oc
+    permission: "ondaria.box.use"
+    permission-message: "§cVous n'avez pas la permission !"
+    usage: "§c Utilisation : §7 /oc give playername boxnames howmuch"

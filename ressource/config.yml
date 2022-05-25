@@ -1,0 +1,4 @@
+plugin:
+  enable: true
+  prefix: ""
+  # use {prefix}
